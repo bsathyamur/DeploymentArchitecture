@@ -1,4 +1,6 @@
-### Objective: To create an azure data pipeline deployment architecture for the walmart sales data 
+### Objective:
+To create an azure data pipeline deployment architecture for the walmart sales data
+
 
 ![img1](https://github.com/bsathyamur/Walmart-Sales-Data---Deployment-Architecture/blob/main/architecture.png)
 
