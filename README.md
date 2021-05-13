@@ -13,3 +13,8 @@ To create an azure data pipeline deployment architecture for the walmart sales d
 4. Then the processed data is stored in MS SQL server
 5. The power BI will display the data to the front end business users
 
+*** Deployment templates from azure resource group
+
+ExportedTemplate-Microsoft.DataFactory-20210512165847
+ExportedTemplate-Microsoft.SQLDatabase.newDatabaseNewServer_c61f8a26038d47beb0935
+ExportedTemplate-walmartsalesacct_1620863517202
