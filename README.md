@@ -15,11 +15,11 @@ To create an azure data pipeline deployment architecture for the walmart sales d
 
 ### Azure Resource deployment templates
 
-#### For ADF:
+#### 1. ADF:
 ExportedTemplate-Microsoft.DataFactory-20210512165847
 
-#### For MS SQL Server database
+#### 2. MS SQL Server database
 ExportedTemplate-Microsoft.SQLDatabase.newDatabaseNewServer_c61f8a26038d47beb0935
 
-#### For Azure Storage account
+#### 3. Azure Storage account
 ExportedTemplate-walmartsalesacct_1620863517202
