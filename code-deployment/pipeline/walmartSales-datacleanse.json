@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "dataCleanse",
+				"name": "dataCleansenotebook",
 				"type": "DatabricksNotebook",
 				"dependsOn": [],
 				"policy": {
