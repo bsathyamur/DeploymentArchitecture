@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "copyInputFile",
+				"name": "copyInputFiles",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
