@@ -1,0 +1,10 @@
+{
+	"name": "keyvaultLS",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://walmartSalespipeline.vault.azure.net/"
+		}
+	}
+}
