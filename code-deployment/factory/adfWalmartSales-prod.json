@@ -1,0 +1,9 @@
+{
+	"name": "adfWalmartSales-prod",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "939c37a5-ae47-4721-886d-f1f527ded716",
+		"tenantId": "81e32954-3723-4ae6-aece-7314a8332541"
+	}
+}
