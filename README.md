@@ -23,3 +23,17 @@ ExportedTemplate-Microsoft.SQLDatabase.newDatabaseNewServer_c61f8a26038d47beb093
 
 #### 3. Azure Storage account
 ExportedTemplate-walmartsalesacct_1620863517202
+
+### Unit testing
+
+The unit_testing is performed using pytest. Below is the unit testing metrics:
+1. Total test cases: 12
+2. Total passed: 12
+3. Total failed: 0
+
+Below are the test cases performed:
+1. Verify the NA column is replaced with Guest value for Customer ID field (2 test cases)
+2. Verify the NA is replaced with Unlisted value for description field (2 test cases)
+3. Verify the new column Quarter is populated as expected (2 test cases)
+4. Verify the new column InvoiceType is populated as expected with Purchase and return (3 test cases)
+5. Verify the dataframe is split based on country - United Kingdom vs. Others (3 test cases)
