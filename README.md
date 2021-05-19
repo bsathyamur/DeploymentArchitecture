@@ -37,3 +37,7 @@ Below are the test cases performed:
 3. Verify the new column Quarter is populated as expected (2 test cases)
 4. Verify the new column InvoiceType is populated as expected with Purchase and return (3 test cases)
 5. Verify the dataframe is split based on country - United Kingdom vs. Others (3 test cases)
+
+### Process followed to convert from test code to final code
+
+![img2](https://github.com/bsathyamur/WalmartSalesData-Deployment-Architecture/blob/main/flow.png)
