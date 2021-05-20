@@ -49,4 +49,11 @@ https://github.com/bsathyamur/walmartSales-Databricks
 
 ### Monitoring Dashboard
 
+Included the following metrics for the monitoring dashboard:
+
+1. Metrics to visualize the cancelled/failed pipeline runs
+2. Metrics to visualize total transactions in storage account
+3. Metrics to visualize average memory percentage for the postgres DB
+4. Metrics to visualize to capture total API calls to the keyvault for security
+
 ![img1](https://github.com/bsathyamur/WalmartSalesData-Deployment-Architecture/blob/main/walmartSales-MonitorDashboard.png)
