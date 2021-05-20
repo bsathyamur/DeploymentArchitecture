@@ -45,5 +45,8 @@ Below are the test cases performed:
 ### Final code is available in the main branch in the below repo
 
 https://github.com/bsathyamur/WalmartSales-DataFactory
-
 https://github.com/bsathyamur/walmartSales-Databricks
+
+### Monitoring Dashboard
+
+![img1](https://github.com/bsathyamur/WalmartSalesData-Deployment-Architecture/blob/main/walmartSales-MonitorDashboard.png)
